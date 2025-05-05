@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Planner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Study Planner</h1>
+        </header>
+
+        <section class="add-session">
+            <h2>Add Study Session</h2>
+            <form id="study-form">
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" required>
+                
+                <label for="topic">Topic:</label>
+                <input type="text" id="topic" required>
+                
+                <label for="date">Date:</label>
+                <input type="date" id="date" required>
+                
+                <label for="time">Time:</label>
+                <input type="time" id="time" required>
+                
+                <button type="submit">Add Session</button>
+            </form>
+        </section>
+
+        <section class="sessions-list">
+            <h2>Study Sessions</h2>
+            <ul id="session-list"></ul>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

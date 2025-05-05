@@ -1,0 +1,16 @@
+### Abstract: **Study Planner Web Application**
+
+The **Study Planner Web Application** is a productivity tool for students to organize study schedules, track assignments, and monitor academic progress. Built using **HTML**, **CSS**, and **JavaScript**, it features task management, a calendar for scheduling study sessions, and progress tracking by subject. The app is fully responsive for desktop and mobile use, and saves data using **local storage**, ensuring plans persist across sessions. Optional features like reminders and a Pomodoro timer enhance productivity. This tool helps students manage their time effectively, reduce procrastination, and stay organized in their academic endeavors.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Abstract: **Study Planner Web Application**
+
+The **Study Planner Web Application** is a productivity tool designed to help students manage their study schedules, tasks, and academic responsibilities efficiently. This project focuses on providing an easy-to-use platform where students can organize their study sessions by subject, track assignment deadlines, and monitor their overall progress. 
+
+The application features a task manager for assignments, a calendar view for visualizing upcoming study sessions, and a progress tracker that shows time spent on each subject. Additionally, users can receive reminders for upcoming sessions and deadlines, enhancing their time management and helping them stay on track with their academic goals.
+
+Built with **HTML**, **CSS**, and **JavaScript**, the Study Planner is designed to be fully responsive, allowing students to access their schedules on both desktop and mobile devices. Data persistence is ensured through the use of **local storage**, enabling users to save their plans and continue from where they left off even after closing the app.
+
+The project is aimed at improving students' time management, reducing procrastination, and fostering a structured approach to learning. Optional features like a Pomodoro timer and study analytics provide further insights into students’ productivity, making this tool a comprehensive study assistant.
+
